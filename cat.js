@@ -19,3 +19,5 @@ class Cat {
 const cat = new Cat();
 
 cat.sayHi(); // hi
+
+cat.sleep(); // sleep
