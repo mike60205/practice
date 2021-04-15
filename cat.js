@@ -5,6 +5,9 @@ class Cat {
     sleep() {
         console.log('sleep');
     }
+    run() {
+        console.log('run');
+    }
 }
 
 const cat = new Cat();
